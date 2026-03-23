@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = "PASTE_YOUR_TOKEN_HERE"
+TOKEN = "8726059130:AAHUDmAixom_xYoESxM4Wh6AMzw5w5j5BuE"
 
 keyboard = ReplyKeyboardMarkup(
     [
